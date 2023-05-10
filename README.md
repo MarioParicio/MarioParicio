@@ -1,5 +1,8 @@
 # <img src="https://mwcorvettes.com/wp-content/uploads/2019/03/savethewave-300x252.gif" width="46" height="39" alt="Wave"> Hola, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://mars-images.imgix.net/ezgif.com-gif-maker%20(1).gif?auto=compress&w=600&fit=max" width="46" height="39" alt="Wave"><br>
-
+<p align="center"> 
+  <img align="center" src="https://i.imgur.com/PLLdAVH.png">
+  
+</p>
 
 #### 💼 &nbsp; Actualmente estoy trabajando en [NTT DATA](https://es.nttdata.com/)
 ### 👉 Programming languages
