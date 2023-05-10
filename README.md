@@ -8,28 +8,14 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
   <a href="https://www.java.com" target="_blank"> 
-        <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-
-  &emsp;
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?logo=java&logoColor=white"></a>&emsp;
   <a href="https://flutter.dev/" target="_blank"> 
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white">
-  </a>
-
-  &emsp;
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-
-  &emsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>&emsp;
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
-  </a>
-
- 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
 </p>
 
 ### 👉 Frontend Development
