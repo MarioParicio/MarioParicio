@@ -57,7 +57,7 @@
   &emsp;
     <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-
+    </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -75,7 +75,7 @@
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
     </a>
   
-     &emsp; 
+  &emsp; 
     <a href="https://firebase.google.com/" target="_blank"> 
         <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase">
   
@@ -107,7 +107,7 @@
  
 <p>
   
-&emsp;
+  &emsp;
     <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij-idea&logoColor=white"></a>
 
   &emsp;
@@ -118,7 +118,7 @@
   &emsp;
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?style=flat&logo=windows&logoColor=white"></a>
 
-    &emsp;
+  &emsp;
         <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 
   &emsp;
@@ -143,18 +143,9 @@
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MarioParicio&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-  <a href="[https://github.com/SrGobi/](https://espcustoms.xyz)">
+
     
  
 </p>
 
-<br />
-<br />
 
-<p align="center">
-  <a href="https://MarioParicio.com/">
-    <img align="right" width="50%" alt="SrGobi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioParicio&layout=compact&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
-  </a>
-
-   
-</p>
