@@ -9,13 +9,15 @@
 
 <p align="left"> 
 &emsp;
-    <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank"> 
         <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?logo=java&logoColor=white">
+  </a>
 
 
 &emsp;
-    <a href="https://flutter.dev/" target="_blank"> 
+  <a href="https://flutter.dev/" target="_blank"> 
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white">
+  </a>
 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -23,8 +25,9 @@
    </a>
 
  &emsp;
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-        <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  </a>
 
  
 </p>
@@ -34,13 +37,13 @@
 <p align="left"> 
     
   &emsp; 
-    <a href="https://spring.io/" target="_blank"> 
-        <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white">
-    </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>
   &emsp;  
-    <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"> 
-        <img alt="Azure functions" src="https://img.shields.io/badge/Azure%20functions%20-%2300f.svg?logo=azurefunctions&logoColor=white">
-    </a>
+  <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"> 
+    <img alt="Azure functions" src="https://img.shields.io/badge/Azure%20functions%20-%2300f.svg?logo=azurefunctions&logoColor=white">
+  </a>
   
 
 </p>
@@ -58,13 +61,13 @@
   </a> 
 
   &emsp;
-    <a href="https://reactjs.org/" target="_blank">
-        <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-    </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  </a>
    &emsp;
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-    </a>
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -74,13 +77,14 @@
 <p align="left">
     
   &emsp;
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-    </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  </a>
   
   &emsp; 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase">
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase">
+  </a>
   
 </p>
  
@@ -92,21 +96,21 @@
 <p>
   
   &emsp;
-    <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij-idea&logoColor=white"></a>
 
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?style=flat&logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?style=flat&logo=windows&logoColor=white"></a>
 
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 
 </p>
