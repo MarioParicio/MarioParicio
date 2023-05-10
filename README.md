@@ -21,7 +21,7 @@
 
  &emsp;
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-         <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+        <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
 
  
 </p>
@@ -34,8 +34,8 @@
     <a href="https://spring.io/" target="_blank"> 
         <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white">
     </a>
-    
- <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"> 
+  &emsp;  
+    <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"> 
         <img alt="Azure functions" src="https://img.shields.io/badge/Azure%20functions%20-%2300f.svg?logo=azurefunctions&logoColor=white">
     </a>
   
@@ -47,7 +47,7 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -56,12 +56,12 @@
 
   &emsp;
     <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+        <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+    <a href="https://getbootstrap.com" target="_blank"> 
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    </a>
 </p>
 
 
@@ -100,7 +100,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?style=flat&logo=windows&logoColor=white"></a>
 
   &emsp;
-        <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
