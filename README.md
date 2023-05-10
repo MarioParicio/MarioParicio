@@ -35,11 +35,13 @@
 </p>
 ### 👉 Frontend Development
 
-<p align="left"> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white"></a>&emsp;
+<p align="left" style="display:flex"> 
+  <a href="https://spring.io/" target="_blank" style="margin-right: 1em;"> 
+    <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>
   <a href="https://azure.microsoft.com/en-us/services/functions/" target="_blank"> 
-    <img alt="Azure functions" src="https://img.shields.io/badge/Azure%20functions%20-%2300f.svg?logo=azurefunctions&logoColor=white"></a>
+    <img alt="Azure functions" src="https://img.shields.io/badge/Azure%20functions%20-%2300f.svg?logo=azurefunctions&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
