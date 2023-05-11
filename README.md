@@ -87,13 +87,10 @@
 <hr />
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MarioParicio&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MarioParicio&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=0d1117&include_all_commits=true&hide_border=true&hide_title=false" >
 
-    
- 
-</p>
-<p align="center">
-  <img alt="StatsLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParicio&hide_progress=true" />
+  
+  <img alt="StatsLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParicio&hide_progress=false" />
 
 
     
