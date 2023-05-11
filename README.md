@@ -93,7 +93,8 @@
  
 </p>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParicio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img alt="StatsLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioParicio&hide_progress=true" />
+
 
     
  
