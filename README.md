@@ -18,7 +18,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Backend Development
 
 <p align="left"> 
     
